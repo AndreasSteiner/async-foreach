@@ -1,4 +1,4 @@
-# Async-ForEach
+# For-Async-Each
 
 The smallest and easiest Async ForEach library out there with true async support. No dependencies and the function is 10 lines long.
 
