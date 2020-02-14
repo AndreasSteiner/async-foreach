@@ -6,24 +6,18 @@ The smallest and easiest Async ForEach library out there with true async support
 
 ### Node.JS
 
-You can install this module using your favorite module manager (Yarn or NPM) on Node.JS:
-
 ``` shell
-yarn add async-foreach
-```
-
-``` shell
-npm i async-foreach
+npm i for-async-each
 ```
 
 Then just import it as a RequireJS module or ES6 module: 
 
 ``` javascript
-const asyncForEach = require('async-foreach') ;
+const asyncForEach = require('for-async-each') ;
 ```
 
 ``` javascript
-import asyncForEach from 'async-foreach';
+import asyncForEach from 'for-async-each';
 ```
 
 ### Browser
