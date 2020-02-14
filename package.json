@@ -1,0 +1,29 @@
+{
+  "name": "async-foreach",
+  "version": "1.0.0",
+  "description": "Smallest and easiest Async ForEach library out there with true async support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreasSteiner/async-foreach.git"
+  },
+  "author": "Andreas Steiner",
+  "license": "ISC",
+  "keywords": [
+    "async", "await", "forEach", 
+    "asynchronous", "each",
+    "loop", "parallel",
+    "iteration", "iterate",
+    "concurrent", "array",
+    "flow", "control flow"
+  ],
+  "bugs": {
+    "url": "https://github.com/AndreasSteiner/async-foreach/issues"
+  },
+  "homepage": "https://github.com/AndreasSteiner/async-foreach#readme",
+  "files": ["index.js"],
+  "dependencies": {}
+}
